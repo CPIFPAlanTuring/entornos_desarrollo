@@ -1,0 +1,59 @@
+﻿ENTORNOS DE DESARROLLO  
+1º Ciclo Formativo de Desarrollo de Aplicaciones Web
+Curso 2023/24
+PRÁCTICA GIT Y GITHUB
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Busca e investiga en internet para obtener los comandos Git necesarios para realizar cada una de las siguientes tareas. Crea un documento pdf donde se explique, para cada tarea, cómo se hace, qué comando y acciones son necesarias para su realización y añade capturas de pantalla de las mismas. 
+● Crear una nueva rama. 
+● Cambiar de rama. 
+● Hacer un merge de una rama con otra. 
+● Resolver un conflicto. 
+● Revertir todos los cambios realizados hasta un determinado commit. ● Ver, para cada línea de un fichero, el commit en el cual se incorporó (por hash), su autor y cuándo. 
+● Hacer un fork. (De manera gráfica en Github) 
+● Hacer una pull request. (De manera gráfica en Github) 
+Puedes utilizar, para algunas tareas, el siguiente entorno de pruebas: https://git-school.github.io/visualizing-git/#free-remote
